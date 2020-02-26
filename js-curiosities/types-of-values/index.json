@@ -1,0 +1,34 @@
+{
+  "title": "Types of values",
+  "description": "Here we will check the types of the JS values",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Primitive values",
+        "text": "step1.md"
+      },
+      {
+        "title": "Null and undefined",
+        "text": "step2.md"
+      },
+      {
+        "title": "Objects and Functions",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "javascript"
+  }
+}

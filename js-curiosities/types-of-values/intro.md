@@ -1,0 +1,1 @@
+In this scenario we will check the types of all the possible values that we can use in JavaScript with the help of `typeof` function

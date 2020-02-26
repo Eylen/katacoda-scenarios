@@ -1,0 +1,11 @@
+{
+  "title": "Javascript curiosities",
+  "description": "In this course you'll find some things about JS that you may not know :)",
+  "courses": [
+    {
+      "course_id": "types-of-values",
+      "title": "Types of values",
+      "description": "Here we will check the types of the JS values"
+    }
+  ]
+}
